@@ -7,9 +7,6 @@ This project is a **Dash Plotly application** that displays a **dumbbell chart**
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [License](#license)
 
 ## Overview
 
