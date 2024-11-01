@@ -2,7 +2,7 @@
 
 This project is a **Dash Plotly application** that displays a **dumbbell chart** visualizing life expectancy across European countries in the years **1952, 1977 (interpolated), and 2002**. The chart enables a clear comparison of life expectancy over time, helping identify trends and progress across decades.
 
-## Resule
+## Result
 
 ![Dumbbell Chart Result](images/dummbell_chart_result.png)
 
