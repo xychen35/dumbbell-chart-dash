@@ -23,6 +23,10 @@ This app uses Plotly's `gapminder` dataset, filtering data to only include Europ
 2. **Install dependencies**:
     Make sure you have Python and `pip` installed, then run:
     ```bash
+    pip install -r requirements.txt
+    ```
+    or
+    ```bash
     pip install dash pandas plotly
     ```
 
