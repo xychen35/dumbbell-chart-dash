@@ -2,6 +2,10 @@
 
 This project is a **Dash Plotly application** that displays a **dumbbell chart** visualizing life expectancy across European countries in the years **1952, 1977 (interpolated), and 2002**. The chart enables a clear comparison of life expectancy over time, helping identify trends and progress across decades.
 
+## Resule
+
+![Dumbbell Chart Result](images/dummbell_chart_result.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -15,24 +19,26 @@ This app uses Plotly's `gapminder` dataset, filtering data to only include Europ
 ## Installation
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/xychen35/dumbbell-chart-dash.git
-    cd dumbbell-chart-dash
-    ```
+
+   ```bash
+   git clone https://github.com/xychen35/dumbbell-chart-dash.git
+   cd dumbbell-chart-dash
+   ```
 
 2. **Install dependencies**:
-    Make sure you have Python and `pip` installed, then run:
-    ```bash
-    pip install -r requirements.txt
-    ```
-    or
-    ```bash
-    pip install dash pandas plotly
-    ```
+   Make sure you have Python and `pip` installed, then run:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   or
+   ```bash
+   pip install dash pandas plotly
+   ```
 
 ## Usage
 
 To run the application locally:
+
 ```bash
 python app.py
 ```
